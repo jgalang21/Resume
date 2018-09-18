@@ -1,6 +1,6 @@
 # Resume
 
-Hello! My name is Jeremy and I'm currently a Junior in Computer Engineering! I'd first like to say thank you for taking a look at my github! I know there isn't much to see, but I promise you it'll be worth your time. 
+Hello! My name is Jeremy and I'm currently a Junior in Computer Engineering! I'd first like to say thank you for taking a look at my github! I know there isn't much to see, but I promise you it'll be worth your time. This github profile is still a work in progress, and most of the code I have worked on is not on github. 
 
 
 I created this repository simply just to share a bit about me and what I've learned in coding throughout my time in school. 
