@@ -4,6 +4,8 @@ My name is Jeremy and I'm currently a Senior in Computer Engineering.
 
 I created this repository simply just to share a bit about me and what I've learned in coding throughout my time in school. 
 
+# My Coding Experience
+
 The languages I'm familiar with include: C, C++, Python, Java, and Ruby.
 
 If I were to rank how strong my coding skills are in a specific language, I would rank it as follows:
@@ -26,6 +28,7 @@ Some of the projects I have worked on for classes include: (These aren't in my r
 
 * Alarm clock - This was a simple alarm clock that could change between 12 hour and 24 hour format, and allowed a user to set a specific alarm time. I created this program when I was first learning object oriented programming. 
 
+# Research IT 
 
 I have also worked in Research IT, doing documentation for users on how to use command-line based software or perform certain tasks such as using Robocopy. A complete list of all the guides I have written are below: 
 
