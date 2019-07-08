@@ -1,7 +1,6 @@
 # Resume
 
-Hello! My name is Jeremy and I'm currently a Junior in Computer Engineering! I'd first like to say thank you for taking a look at my github! I know there isn't much to see, but I promise you it'll be worth your time. This github profile is still a work in progress, and most of the code I have worked on is not on github. 
-
+My name is Jeremy and I'm currently a Senior in Computer Engineering. 
 
 I created this repository simply just to share a bit about me and what I've learned in coding throughout my time in school. 
 
@@ -14,11 +13,10 @@ If I were to rank how strong my coding skills are in a specific language, I woul
 4. Ruby
 3. Python/C++
 
-The projects in my repository are mostly projects I have worked on over the summer. The rails-blog, exercism.io-solutions and Simple-Keylogger are projects I have found online and worked on. I was also in the process of learning how to use github as well, so I had to make some changes with some older repositories. 
+The projects in my repository are mostly projects I have worked on over the summer or while in school. The rails-blog, exercism.io-solutions are projects I have found online and worked on. The Mars Rover Simulation and DrinkSafe App are the two big projects I have worked on. The Let's do Lunch program was given to me as a coding exercise by another company (The instructions are publicly available on Google). 
 
-Outside of this repositories, I have worked on many other projects for classes. The reason why they aren't on my github is because the computer science department has strict rules about uploading code to github for academic integrity reasons. However, if you are currently an employer and would like to see some of my other work, please contact me via the email I provided on my resume, not my github email. 
 
-Some of the projects I have worked on for classes include: 
+Some of the projects I have worked on for classes include: (These aren't in my repository, due to the Academic policy of the Computer Science department) 
 
 * Solving an 8-puzzle using A* algorithm  - This project required us to solve the 8-puzzle, which is similar to a sliding puzzle that makes an image once solved, except with numbers. We were required to implement the A* algorithm  using two heuristics, and have the program output the solution path. 
 
@@ -26,7 +24,34 @@ Some of the projects I have worked on for classes include:
 
 * Determining the efficiency of the Jarvis march and Graham's Scan algorithm - This assignment was simply learning how to implement Jarvis march and Graham's scan, two algorithms that select the outermost points and connects them on a graph. They're also commonly known as "package wrapping" techniques. This project also utilized stacks as our data structure. 
 
-* Alarm clock - This was a simple alarm clock that could change between 12 hour and 24 hour format, and allowed a user to set a specific alarm time. 
+* Alarm clock - This was a simple alarm clock that could change between 12 hour and 24 hour format, and allowed a user to set a specific alarm time. I created this program when I was first learning object oriented programming. 
+
+
+I have also worked in Research IT, doing documentation for users on how to use command-line based software or perform certain tasks such as using Robocopy. A complete list of all the guides I have written are below: 
+
+How to Robocopy on Windows:
+https://researchit.las.iastate.edu/robocopy-large-scale-storage
+
+How to use Rsync on Mac OS X/Linux:
+https://researchit.las.iastate.edu/rsync-large-scale-storage
+
+How to use X11 forwarding for Mac and Windows:
+https://researchit.las.iastate.edu/x-forwarding-mac-and-windows
+
+How to run and configure Busco:
+https://researchit.las.iastate.edu/run-and-configure-busco
+
+How to run and configure Augustus:
+https://researchit.las.iastate.edu/how-run-and-configure-augustus
+
+How to run and configure Braker:
+https://researchit.las.iastate.edu/how-run-and-configure-braker
+
+How to use the Software Center (Windows):
+https://researchit.las.iastate.edu/how-use-software-center-windows
+
+How to request space on the University's storage system:
+https://researchit.las.iastate.edu/request-lss-space
 
 
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me. 
