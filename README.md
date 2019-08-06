@@ -56,5 +56,8 @@ https://researchit.las.iastate.edu/how-use-software-center-windows
 How to request space on the University's storage system:
 https://researchit.las.iastate.edu/request-lss-space
 
+Updated the hardware page of the university's clusters:
+https://researchit.las.iastate.edu/hardware
+
 
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me. 
