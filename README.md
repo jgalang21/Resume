@@ -60,4 +60,4 @@ Updated the hardware page of the university's clusters:
 https://researchit.las.iastate.edu/hardware
 
 
-If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me. 
+If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
