@@ -59,5 +59,20 @@ https://researchit.las.iastate.edu/request-lss-space
 Updated the hardware page of the university's clusters:
 https://researchit.las.iastate.edu/hardware
 
+How to use retrieve snapshots from mounted LSS (Large Scale Storage):
+https://researchit.las.iastate.edu/lss-self-service-retrieving-files-snapshots
+
+Singularity with FAQ's:
+https://researchit.las.iastate.edu/singularity-1
+
+How to cite our webpages:
+https://researchit.las.iastate.edu/how-cite-research-it-resources
+
+How to use the machine learning Singularity image:
+https://researchit.las.iastate.edu/machine-learning-singularity-image
+
+How to use Private Singularity Image Repositories:
+https://researchit.las.iastate.edu/private-singularity-image-repositories
+
 
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
