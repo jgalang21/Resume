@@ -74,5 +74,11 @@ https://researchit.las.iastate.edu/machine-learning-singularity-image
 How to use Private Singularity Image Repositories:
 https://researchit.las.iastate.edu/private-singularity-image-repositories
 
+How to copy files from the cluster's working directory to Box using rclone:
+https://researchit.las.iastate.edu/how-copy-files-work-and-lss-box-using-rclone
+
+How to choose the right cluster for your job:
+https://researchit.las.iastate.edu/picking-best-resource-your-job
+
 
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
