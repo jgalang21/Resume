@@ -77,4 +77,7 @@ https://researchit.las.iastate.edu/how-use-openstack
 How to utilize local /scratch space for I/O intensive jobs on certain clusters:
 https://researchit.las.iastate.edu/using-local-scratch-space-io-intensive-jobs
 
+How to run Jupyter Notebook on the clusters:
+https://researchit.las.iastate.edu/how-run-jupyter-notebook
+
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
