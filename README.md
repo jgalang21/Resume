@@ -80,4 +80,13 @@ https://researchit.las.iastate.edu/using-local-scratch-space-io-intensive-jobs
 How to run Jupyter Notebook on the clusters:
 https://researchit.las.iastate.edu/how-run-jupyter-notebook
 
+How to Disable IPv6 Privacy mode:
+https://researchit.las.iastate.edu/how-disable-ipv6-privacy-mode
+
+How to force IPv4 connections:
+https://researchit.las.iastate.edu/how-force-ipv4-connections
+
+Troubleshooting Common Issues:
+https://researchit.las.iastate.edu/troubleshooting-common-issues
+
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
