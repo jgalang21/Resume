@@ -89,4 +89,10 @@ https://researchit.las.iastate.edu/how-force-ipv4-connections
 Troubleshooting Common Issues:
 https://researchit.las.iastate.edu/troubleshooting-common-issues
 
+Port Forwarding with SSH:
+https://researchit.las.iastate.edu/how-port-forward-ssh
+
+How to Run Nvidia Nsight:
+https://researchit.las.iastate.edu/how-run-nvidia-nsight
+
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
