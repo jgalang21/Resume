@@ -95,4 +95,7 @@ https://researchit.las.iastate.edu/how-port-forward-ssh
 How to Run Nvidia Nsight:
 https://researchit.las.iastate.edu/how-run-nvidia-nsight
 
+Retreiving old snapshots of your work:
+https://researchit.las.iastate.edu/lss-self-service-retrieving-files-snapshots
+
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
