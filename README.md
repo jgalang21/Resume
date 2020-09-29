@@ -6,14 +6,15 @@ I created this repository simply just to share a bit about me and what I've lear
 
 # My Coding Experience
 
-The languages I'm familiar with include: C, C++, Python, Java, and Ruby.
+The languages I'm familiar with include: C, C++, Python, Java, React/Javascript, and Ruby.
 
 If I were to rank how strong my coding skills are in a specific language, I would rank it as follows:
 
 1. Java
 2. C
+3. React Native/JavaScript
 4. Ruby
-3. Python/C++
+5. Python/C++
 
 I'm also familiar with git and bash scripting.
 
@@ -28,6 +29,9 @@ https://researchit.las.iastate.edu/robocopy-large-scale-storage
 
 How to use Rsync on Mac OS X/Linux:
 https://researchit.las.iastate.edu/rsync-large-scale-storage
+
+How to use SCP on Windows/Unix machines to transfer files:
+https://researchit.las.iastate.edu/how-use-scp-secure-copy-command
 
 How to use X11 forwarding for Mac and Windows:
 https://researchit.las.iastate.edu/x-forwarding-mac-and-windows
@@ -97,5 +101,11 @@ https://researchit.las.iastate.edu/how-run-nvidia-nsight
 
 Retreiving old snapshots of your work:
 https://researchit.las.iastate.edu/lss-self-service-retrieving-files-snapshots
+
+How to run R on the university clusters:
+https://researchit.las.iastate.edu/how-run-r-pronto
+
+An introductory guide for users on how to use the university clusters:
+https://researchit.las.iastate.edu/general-guide-how-use-pronto
 
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
