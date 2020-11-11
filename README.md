@@ -108,4 +108,14 @@ https://researchit.las.iastate.edu/how-run-r-pronto
 An introductory guide for users on how to use the university clusters:
 https://researchit.las.iastate.edu/general-guide-how-use-pronto
 
+Virtual Python Environments:
+https://researchit.las.iastate.edu/python-virtual-environments
+
+How to use tmux:
+https://researchit.las.iastate.edu/how-use-tmux
+
+How to create a slurm job array script:
+https://researchit.las.iastate.edu/how-create-slurm-job-array-script
+
+
 If you have any questions about my coding experience, or anything in general, please don't hesitate to contact me via phone or email on my original resume. 
