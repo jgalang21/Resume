@@ -18,7 +18,7 @@ If I were to rank how strong my coding skills are in a specific language, I woul
 
 I'm also familiar with git and bash scripting.
 
-The projects in my repository are mostly projects I have worked on over the summer or while in school. The rails-blog, exercism.io-solutions are projects I have found online and worked on. The Mars Rover Simulation and DrinkSafe App are the two big projects I have worked on. The Let's do Lunch program was given to me as a coding exercise by another company (The instructions are publicly available on Google). 
+The projects in my repository are mostly projects I have worked on over the summer or while in school. 
 
 # Research IT 
 
