@@ -1,8 +1,8 @@
 # Resume
 
-My name is Jeremy and I'm currently a Senior in Computer Engineering. 
+My name is Jeremy and I'm a computer engineer.
 
-I created this repository simply just to share a bit about me and what I've learned in coding throughout my time in school. 
+I created this repository simply just to share a bit about what I've learned in coding throughout my time in school. 
 
 # My Coding Experience
 
