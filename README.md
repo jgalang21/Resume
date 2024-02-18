@@ -1,28 +1,13 @@
 # Resume
 
-My name is Jeremy and I'm a computer engineer.
+My name is Jeremy and I'm a software developer.
 
-I created this repository to share a bit about what I've learned in coding throughout my time in school. 
+I created this repository to share a bit about what I've learned in coding throughout my time in school and various side projects in my free time. Please feel free to have a look around my repository and dive into the projects I've worked on.
 
-# My Coding Experience
-
-The languages I'm familiar with include: C, C++, Python, Java, React/Javascript, and Ruby.
-
-If I were to rank how strong my coding skills are in a specific language, I would rank it as follows:
-
-1. Java
-2. C
-3. React Native/JavaScript
-4. Ruby
-5. Python/C++
-
-I'm also familiar with git and bash scripting.
-
-The projects in my repository are mostly projects I have worked on over the summer or while in school. 
 
 # Research IT 
 
-I have also worked in Research IT, doing documentation for users on how to use command-line based software or perform certain tasks such as using Robocopy. A complete list of all the guides I have written are below: 
+I have worked in Research IT, doing documentation for users on how to use command-line based software or perform certain tasks such as using Robocopy. A complete list of all the guides I have written are below: 
 
 How to Robocopy on Windows:
 https://researchit.las.iastate.edu/robocopy-large-scale-storage
